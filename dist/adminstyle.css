@@ -1,0 +1,16 @@
+//Admin Console
+
+textarea {
+	width:1000px;
+}
+
+.changeContainer {
+	display:flex;
+	flex-direction:column;
+}
+
+.legendContainer {
+	display:flex;
+	flex-direction:row;
+	border:1px solid black;
+}
